@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Tharunasri Mogilicharla
 
-🎓 **B.Tech in Computer Science and Data Science**  
-📍 Telangana, India  
-📧 238r5a6713@gmail.com
+🎓 **B.Tech in Computer Science and Data Science (CGPA: 8.72/10)** 
+📍 Hyderabad, Telangana, India  
+📧 tharunasrimogilicharla@gmail.com
 
 ---
 
@@ -62,9 +62,9 @@ I’m a quick learner, proactive team leader, and excited to contribute to innov
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email:** 238r5a6713@gmail.com  
+- 📧 **Email:** tharunasrimogilicharla@gmail.com  
 - 🌐 **LinkedIn:** [Add your LinkedIn here]  
-- 🌍 **Location:** Dammapeta, Telangana, India
+- 🌍 **Location:** Hyderabad, Telangana, India
 
 ---
 
