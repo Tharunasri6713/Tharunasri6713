@@ -1,6 +1,7 @@
 # 👋 Hi there, I’m Tharunasri Mogilicharla
 
 🎓 **B.Tech in Computer Science and Data Science (CGPA: 8.72/10)** 
+
 📍 Hyderabad, Telangana, India  
 📧 tharunasrimogilicharla@gmail.com
 
