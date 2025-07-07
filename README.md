@@ -1,78 +1,80 @@
-# 👋 Hi there, I’m Tharunasri Mogilicharla
+## Hi there, I'm Tharunasri Mogilicharla 👋
 
-🎓 **B.Tech in Computer Science and Data Science (CGPA: 8.72/10)** 
-
-📍 Hyderabad, Telangana, India  
-📧 tharunasri6713@gmail.com
-
----
-
-## 🚀 About Me
-
-I’m a technically driven and growth-oriented student passionate about **Data Science, AI, and Cloud Computing**.  
-I love solving real-world problems through **Machine Learning, Data Mining, and Big Data Analytics**.  
-
-I’m a quick learner, proactive team leader, and excited to contribute to innovative projects that create meaningful impact.
+🎓 B.Tech CSE (Data Science) | CGPA: 8.73  
+💡 Passionate about Data Science, AI, Machine Learning, and Cloud Computing  
+🌐 Hyderabad, Telangana, India  
+📫 Email: tharunasri6713@gmail.com
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Skills & Tools
 
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen?style=flat-square)
-![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F00?style=flat-square)
-![Big Data](https://img.shields.io/badge/-Big%20Data-orange?style=flat-square)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau)
+**Programming:** Python, Java, SQL, R  
+**Data Science:** Data Mining, Data Analysis, Data Visualization, Big Data Analytics  
+**Cloud:** AWS, Cloud Computing  
+**Tools:** Power BI, Tableau, Oracle SQL, Arduino  
+**AI/ML:** Machine Learning, Artificial Intelligence, Deep Learning  
+**Soft Skills:** Problem Solving, Leadership, Communication
 
 ---
 
-## 📌 Projects Highlights
+### 📊 Projects
 
-- **🚀 Setting up a Continuous Delivery Pipeline with AWS CodePipeline**  
-  *Team Lead | Cloud Computing, AWS*
-- **💬 Sentiment Analysis on Social Media**  
-  *Team Lead | Big Data, NLP, ML*
-- **💸 Financial Transaction & Fraud Detection**  
-  *Team Lead | Data Mining, ML*
-- **🔍 Deep Fake Detection using AI**  
-  *Team Lead | Python, AI, Neural Networks*
-- **🦯 Smart Blind Stick using Arduino**  
-  *Team Lead | Embedded Systems*
-- **🛂 Passport Automation System**  
-  *Team Lead | Software Engineering*
+🔹 **Setting Up a Continuous Delivery Pipeline with AWS CodePipeline**  
+Developed and led a CI/CD pipeline project using AWS Cloud Services.  
+*Tech:* AWS, Cloud Computing
 
----
+🔹 **Sentiment Analysis on Social Media**  
+Implemented sentiment analysis on social media using NLP and ML techniques.  
+*Tech:* Big Data, Machine Learning
 
-## 🧩 Certifications
+🔹 **Financial Transaction and Fraud Detection**  
+Developed a fraud detection system using data mining and ML for secure financial transactions.  
+*Tech:* Data Mining, Machine Learning
 
-- 📜 **AWS Cloud Practitioner Essentials**
-- 📜 **Introduction to Data Science (Cisco)**
-- 📜 **Python Developer (SoloLearn)**
-- 📜 **Data Visualization with Power BI (Great Learning)**
-- 📜 **Fundamentals of Cybersecurity (Zscaler)**
-- 📜 **Oracle SQL (Great Learning)**
-- 📜 **Front-End Development - HTML & CSS (Great Learning)**
-- 📜 **Hands-On Data Analytics with R (Infosys Springboard)**
+🔹 **Deep Fake Detection Using AI**  
+Built an AI-based system using CNNs, RNNs, and GANs for detecting deepfake media.  
+*Tech:* Python, Machine Learning, Artificial Intelligence
+
+🔹 **Smart Blind Stick Using Arduino**  
+Created a smart stick for visually impaired individuals with obstacle detection.  
+*Tech:* Arduino, Embedded Systems
+
+🔹 **Passport Automation System**  
+Developed a web application to streamline passport management processes.  
+*Tech:* Software Engineering, Software Testing
 
 ---
 
-## 📫 Let’s Connect!
+### 🧾 Certifications
 
-- 📧 **Email:** tharunasri6713@gmail.com  
-- 🌐 **LinkedIn:** linkedin.com/in/tharunasri-mogilicharla-3476b2373  
-- 🌍 **Location:** Hyderabad, Telangana, India
+- AWS Cloud Practitioner
+- Introduction to Networking for Cyber Professionals
+- Python Developer (SoloLearn)
+- Data Visualization with Power BI (Great Learning)
+- Fundamentals of Cybersecurity (Zscaler)
+- Introduction to Data Science (Cisco Networking Academy)
+- Front End Development - HTML, CSS (Great Learning)
+- Oracle SQL (Great Learning)
+- R Data Analytics Projects (Infosys Springboard)
+- Hands-On Data Analytics with R (Infosys Springboard)
+- Essentials of Cloud Computing (Infosys Springboard)
 
 ---
 
-## ⚡ Fun Fact
+### 🌱 Currently Learning
 
-I love **sports, dance, watching cricket, reading books, and learning new things** every day!
+- Deep Learning
+- Advanced Power BI
+- Git & GitHub
+- Deployment and MLOps on AWS
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let’s build something amazing together!*
+### 📈 GitHub Stats
+
+![Tharunasri's GitHub stats](https://github-readme-stats.vercel.app/api?username=**your-github-username**&show_icons=true&theme=radical)
+
+---
+
+✨ Let’s connect and grow together in tech!
