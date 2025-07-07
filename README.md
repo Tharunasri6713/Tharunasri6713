@@ -71,10 +71,4 @@ Developed a web application to streamline passport management processes.
 
 ---
 
-### 📈 GitHub Stats
-
-![Tharunasri's GitHub stats](https://github-readme-stats.vercel.app/api?username=**your-github-username**&show_icons=true&theme=radical)
-
----
-
 ✨ Let’s connect and grow together in tech!
