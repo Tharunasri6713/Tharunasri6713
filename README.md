@@ -2,8 +2,8 @@
 
 🎓 B.Tech CSE (Data Science) | CGPA: 8.73  
 💡 Passionate about Data Science, AI, Machine Learning, and Cloud Computing  
-🌐 Based in Dammapeta, Telangana, India  
-📫 Email: 238r5a6713@gmail.com  
+🌐 Hyderabad, Telangana, India  
+📫 Email: tharunasri6713@gmail.com  
 🔗 [LinkedIn: tharunasri-mogilicharla](https://www.linkedin.com/in/tharunasri-mogilicharla-3476b2373)
 
 ---
@@ -13,7 +13,7 @@
 **Programming:** Python, Java, SQL, R  
 **Data Science:** Data Mining, Data Analysis, Data Visualization, Big Data Analytics  
 **Cloud:** AWS, Cloud Computing  
-**Tools:** Power BI, Tableau, Oracle SQL, Arduino  
+**Tools:** Power BI, Arduino  
 **AI/ML:** Machine Learning, Artificial Intelligence, Deep Learning  
 **Soft Skills:** Problem Solving, Leadership, Communication
 
@@ -69,6 +69,7 @@ Developed a web application to streamline passport management processes.
 - Advanced Power BI
 - Git & GitHub
 - Deployment and MLOps on AWS
+- Gen AI
 
 ---
 
