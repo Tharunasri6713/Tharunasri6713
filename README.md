@@ -4,7 +4,7 @@
 💡 Passionate about Data Science, AI, Machine Learning, and Cloud Computing  
 🌐 Hyderabad, Telangana, India  
 📫 Email: tharunasri6713@gmail.com  
-🔗 [LinkedIn: tharunasri-mogilicharla](https://www.linkedin.com/in/tharunasri-mogilicharla-3476b2373)
+🔗 LinkedIn: [tharunasri-mogilicharla](https://www.linkedin.com/in/tharunasri-mogilicharla-3476b2373)
 
 ---
 
