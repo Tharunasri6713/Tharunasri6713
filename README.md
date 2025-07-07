@@ -2,8 +2,9 @@
 
 🎓 B.Tech CSE (Data Science) | CGPA: 8.73  
 💡 Passionate about Data Science, AI, Machine Learning, and Cloud Computing  
-🌐 Hyderabad, Telangana, India  
-📫 Email: tharunasri6713@gmail.com
+🌐 Based in Dammapeta, Telangana, India  
+📫 Email: 238r5a6713@gmail.com  
+🔗 [LinkedIn: tharunasri-mogilicharla](https://www.linkedin.com/in/tharunasri-mogilicharla-3476b2373)
 
 ---
 
