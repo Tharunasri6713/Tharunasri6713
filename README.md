@@ -3,7 +3,7 @@
 🎓 **B.Tech in Computer Science and Data Science (CGPA: 8.72/10)** 
 
 📍 Hyderabad, Telangana, India  
-📧 tharunasrimogilicharla@gmail.com
+📧 tharunasri6713@gmail.com
 
 ---
 
@@ -63,8 +63,8 @@ I’m a quick learner, proactive team leader, and excited to contribute to innov
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email:** tharunasrimogilicharla@gmail.com  
-- 🌐 **LinkedIn:** [Add your LinkedIn here]  
+- 📧 **Email:** tharunasri6713@gmail.com  
+- 🌐 **LinkedIn:** linkedin.com/in/tharunasri-mogilicharla-3476b2373  
 - 🌍 **Location:** Hyderabad, Telangana, India
 
 ---
