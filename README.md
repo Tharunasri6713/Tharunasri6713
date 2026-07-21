@@ -1,6 +1,6 @@
 ## Hi there, I'm Tharunasri Mogilicharla 👋
 
-🎓 B.Tech CSE (Data Science) | CGPA: 8.87
+🎓 B.Tech CSE (Data Science) | CGPA: 8.87  
 💡 Passionate about Data Science, AI, Machine Learning, and Cloud Computing  
 🌐 Hyderabad, Telangana, India  
 📫 Email: tharunasri6713@gmail.com  
